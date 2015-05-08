@@ -67,7 +67,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Dao\ICourseDao - .cs" />
+    <Compile Include="Dao\ICourseDao.cs" />
     <Compile Include="Dao\Impl\CourseDao.cs" />
     <Compile Include="Dao\Base\GenericDao.cs" />
     <Compile Include="Dao\Mapper\CourseRowMapper.cs" />
